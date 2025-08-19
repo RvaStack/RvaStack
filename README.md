@@ -4,7 +4,7 @@
 
 
 
-- 💻 I’m a Python developer🐍 and Cybersecurity Student🕵️‍♂️
+- 💻 I’m a Python developer🐍 and Cybersecurity Analyst🕵️‍♂️
 
 - 📖 I’m currently learning **C++, Rust, HTML, SQL**
 
