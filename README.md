@@ -4,9 +4,9 @@
 
 
 
-- 💻 I’m a Python developer🐍 and Cybersecurity Analyst🕵️‍♂️
+- 💻 I’m a Python & C++ developer and Cybersecurity Analyst🕵️‍♂️
 
-- 📖 I’m currently learning **C++, Rust, HTML, SQL**
+- 📖 I’m currently learning **Rust, HTML, SQL**
 
 - 🐧 GNU/Linux lover
 
